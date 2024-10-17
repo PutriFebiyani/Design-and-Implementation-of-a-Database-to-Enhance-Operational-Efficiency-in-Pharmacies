@@ -21,4 +21,4 @@ The implemented database system enhances operational efficiency by streamlining 
 
 ---
 
-Feel free to modify any sections to better fit your project specifics!
+
